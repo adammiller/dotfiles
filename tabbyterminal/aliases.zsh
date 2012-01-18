@@ -1,0 +1,1 @@
+alias new='. ~/Library/Scripts/TabbyTerminal/tabbyterminal.sh'
